@@ -1,7 +1,6 @@
 <%-- 
     Document   : logout
-    Created on : Dec 19, 2018, 2:25:44 PM
-    Author     : Administrator
+    Author     : Kathirvel
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

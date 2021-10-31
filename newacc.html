@@ -1,0 +1,30 @@
+<html>
+    <body bgcolor="#66d9ff">
+    <center>
+    
+    <form action="neaccjsp.jsp" method="post">
+	<h1 style="font-size:30px; text-align:center; color: #CC0033 ">Registration Form</h1><br><br>
+	
+   <b>Account Number</b>        : <input type="text" name="acno" required><br><br>
+   <b>Name    </b>        : <input type="text" name="name" required><br><br>
+   <b>Address    </b>        : <input type="text" name="addr" required><br><br>
+    
+    <b>Phone Number     </b>        : <input type="text" name="phno" required><br><br>
+    <b>Gender : </b> Male<input type="radio" name="gender" value="male" > Female<input type="radio" name="gender" value="female"><br><br>
+    <b>Account type</b><select name="acc type" >
+        <option value="sb">Savings account</option>
+        <option value="current">current account</option>
+        <option value="salary">Salary account</option>
+        </select><br><br>
+    <b>Branch </b>  :
+           <select name="branch" >
+        <option value="pdy">Puducherry</option>
+        <option value="vlr">Villianur</option></select><br><br>
+    <b>Balance    </b>        : <input type="text" name="bal" required><br><br>       
+
+    <input type="submit" value="submit" name="submit" >
+</form>
+</center>
+</body>
+	
+</html>

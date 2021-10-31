@@ -1,8 +1,3 @@
-<%-- 
-    Document   : withdrawaljsp
-    Created on : Dec 24, 2018, 2:13:58 PM
-    Author     : Administrator
---%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
